@@ -1,6 +1,6 @@
 Bank Loan Report Analysis
 Overview
-The Bank Loan Report is designed to monitor and evaluate the bank's lending activities and overall performance. This report provides:
+The Bank Loan Report monitors and evaluates the bank's lending activities and overall performance. This report provides:
 
 Insights into key loan-related metrics
 Analysis of portfolio health and risk factors
